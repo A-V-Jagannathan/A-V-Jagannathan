@@ -2,7 +2,7 @@ Hello and welcome to my github profile.
 
 Hey there! If you are looking to collaborate or contact me, feel free to ping me at jgan2k03@gmail.com. I can help in developing ML/DL based projects , help in debugging code and  brainstorm solutions to logical problems.
 
-Im currently working on Semantic segmentation on IR images of solar panels, to detect defects in them.
+Im currently working on Image processing based projects.
 
 Feel free to look at my repositories and don't forget to star the ones you like!
 
